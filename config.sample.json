@@ -9,7 +9,7 @@
         },
         "Sandbox": {
             "Sandbox": {
-                "base_url": "https://your-instance-sandbox.atlassian.net/wiki",
+                "base_url": "https://your-sandbox.atlassian.net",
                 "email": "YOUR_EMAIL@company.com",
                 "api_token": "YOUR_API_TOKEN"
             }
