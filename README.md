@@ -44,7 +44,7 @@ You don't need to be a developer. Describe what you want in plain English — th
 ## Repository Structure
 
 ```
-atlassian-automation-skill/
+Atlassian-Skill/
 ├── README.md                        ← You are here
 ├── config.sample.json               ← Copy this, fill in credentials
 ├── .gitignore
